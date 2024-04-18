@@ -1,0 +1,10 @@
+What is the primary purpose of a stack in computer science?|To store data in a first-in, first-out (FIFO) order.|To store data in a last-in, first-out (LIFO) order.|To perform sorting of elements.|To organize data in a tree-like structure.|B
+ In a priority queue, how are elements arranged?|In ascending order.|In descending order.|Based on their priority levels.|Randomly.|C
+ What is the time complexity of searching for an element in a hash table?|O(1)|O(log n)|O(n)|O(n log n)|A
+ What is the primary advantage of using a linked list over an array?|Constant-time access to elements.|Dynamic size and efficient insertions/deletions.|Better cache locality.|Ability to store elements in a contiguous memory block.|B
+ How is a binary search tree different from a binary heap?|Binary search trees are always complete binary trees.|Binary heaps are always balanced trees.|Binary search trees maintain an order between elements.|Binary heaps have a constant time complexity for searching.|C
+ Which sorting algorithm has the best time complexity in the worst case?|Merge Sort|Quick Sort|Bubble Sort|Insertion Sort|A
+ What is the purpose of memoization in dynamic programming?|To minimize memory usage.|To store previously computed results to avoid redundant calculations.|To improve algorithm efficiency.|To guarantee correctness in recursive algorithms.|B
+  In graph theory, what is the degree of a vertex?|The number of edges connected to the vertex.|The weight assigned to the vertex.|The distance of the vertex from the root.|The number of vertices adjacent to it.|A
+  Which algorithm is commonly used for finding the shortest path in a weighted graph?|Breadth-First Search (BFS)| Depth-First Search (DFS)|DijkstraS algorithm|Kruskal's algorithm|C
+  What is the primary purpose of the divide and conquer strategy in algorithms?|o break a problem into smaller subproblems, solve them independently|To sort elements in ascending order.|To find the maximum element in an array.|To optimize space complexity in recursive algorithms.|A
